@@ -1,0 +1,20 @@
+# Exact versions the notebook was last run with (Python 3.13).
+# Pinned so that results reproduce; newer versions will very likely work too.
+
+# Chemistry
+rdkit==2026.9.1
+
+# Data handling and modelling
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+
+# Plots and interpretability
+matplotlib==3.11.2
+shap==0.54.1
+
+# Running the notebook
+jupyter==1.1.1
+ipykernel==7.4.0
+nbconvert==7.17.2
